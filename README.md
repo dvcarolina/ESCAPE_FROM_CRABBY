@@ -1,36 +1,47 @@
 ![Escape From Crabby](images/menu_background.jpg)
 
-# Escape From Crabby 🦀🔥
-
-## 🎮 Sobre o jogo  
-Ah, não! Esses caranguejos famintos acharam o esconderijo da estrela do mar e agora não a deixam mais em paz. Ajude ela a escapar!  
-Em “Escape From Crabby”, os inimigos vão perseguir você com animações fluidas, criando uma atmosfera tensa e cheia de ação e diversão. Com um menu de botões para começar a jogar, ligar/desligar a música e sair do jogo, a experiência fica completa e simples de usar.
-
-## 🎵 Música e sons  
-- Música de fundo: **Game Over** by Various Artists (Enough Records) — disponível no Free Music Archive  
-- Efeito sonoro: **Cyber Punch 03, Punch with cyber texture** by JohnLoser
-
-## 🚀 Funcionalidades  
-- Menu principal com botões clicáveis para começar, controlar música e sair  
-- Herói e inimigos animados, com sprites para movimento e parada  
-- Inimigos que se movimentam dentro de seus territórios e perseguem o herói  
-- Sistema de vida e morte com animação para o herói
-
-## 🛠️ Tecnologias usadas  
-- Python com PgZero  
-- Bibliotecas: matemática, aleatória e Rect do pygame  
-
-## 🧑‍💻 Sobre a desenvolvedora  
-Este jogo foi criado por Ana Carolina de Andrade como parte de um desafio de programação para mostrar domínio em Python e desenvolvimento de jogos simples e eficientes.  
-
-Divirta-se jogando e não se esqueça: fique longe do Crabby! 🦀🔥
+Here is the English version of your game documentation, maintaining the same energy and structure:
 
 ---
 
-**Para rodar o jogo:**  
-1. Tenha Python instalado com PgZero configurado  
-2. Coloque a pasta do projeto no seu computador  
-3. Execute o arquivo `roguelike_skeleton.py` com PgZero (ex: `pgzrun roguelike_skeleton.py`)  
-4. Curta a aventura!
+# Escape From Crabby 🦀🔥
+
+## 🎮 About the Game
+
+Oh no! These hungry crabs have found the starfish's hiding spot and won't leave him alone. Help him escape!
+
+In **“Escape From Crabby,”** enemies chase you with fluid animations, creating a tense atmosphere filled with action and fun. Featuring a clean button menu to start playing, toggle music, or exit, the experience is polished and easy to navigate.
+
+## 🎵 Music & Sound Effects
+
+* **Background Music:** *Game Over* by Various Artists (Enough Records) — available on the Free Music Archive.
+* **Sound Effect:** *Cyber Punch 03, Punch with cyber texture* by JohnLoser.
+
+## 🚀 Key Features
+
+* **Main Menu:** Interactive buttons to start, control audio, and quit.
+* **Animated Characters:** Hero and enemies feature specific sprites for idle and movement states.
+* **Smart AI:** Enemies patrol their own territories and switch to pursuit mode when they spot the hero.
+* **Health System:** Full life and death mechanics, including a custom animation for the hero’s defeat.
+
+## 🛠️ Tech Stack
+
+* **Python** with **PgZero**
+* **Libraries:** `math`, `random`, and Pygame’s `Rect`.
+
+## 🧑‍💻 About the Developer
+
+This game was created by **Ana Carolina de Andrade** as part of a programming challenge to demonstrate mastery of Python and the development of simple, efficient games.
+
+Have fun playing, and remember: **Stay away from Crabby!** 🦀🔥
+
+---
+
+**How to run the game:**
+
+1. Ensure **Python** is installed and **PgZero** is configured.
+2. Download the project folder to your computer.
+3. Run the `roguelike_skeleton.py` file using PgZero (e.g., `pgzrun roguelike_skeleton.py`).
+4. Enjoy the adventure!
 
 ---
